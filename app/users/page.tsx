@@ -1,9 +1,9 @@
 import React from 'react'
 
-const usersPage = () => {
+const geminiChats  = () => {
   return (
-    <div>Karolina</div>
+    <div className='flex justify-center'>Karolina</div>
   )
 }
 
-export default usersPage
+export default geminiChats

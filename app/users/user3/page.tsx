@@ -2,7 +2,7 @@ import React from 'react'
 
 const usersPage = () => {
   return (
-    <div>
+    <div className='flex justify-center'>
       irene
     </div>
   )
